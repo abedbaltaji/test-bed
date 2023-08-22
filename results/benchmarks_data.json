@@ -1,0 +1,42 @@
+{
+    "matrix_conv_50MHz": {
+        "power": 64564.6509509619,
+        "cycles": 2825
+    },
+    "Factorial_100MHz": {
+        "power": 67454.98861862955,
+        "cycles": 477
+    },
+    "matrix_mult_100MHz": {
+        "power": 68266.30436321675,
+        "cycles": 719
+    },
+    "fibonacci_100MHz": {
+        "power": 65072.973214307116,
+        "cycles": 372
+    },
+    "median_filter_50MHz": {
+        "power": 68382.70434561411,
+        "cycles": 3238
+    },
+    "fibonacci_50MHz": {
+        "power": 63842.656352087746,
+        "cycles": 339
+    },
+    "matrix_mult_50MHz_3x3": {
+        "power": 66838.31309790324,
+        "cycles": 3064
+    },
+    "qsort_50MHz_14": {
+        "power": 64860.31425117701,
+        "cycles": 3037
+    },
+    "fibonacci_100MHz_40": {
+        "power": 62796.852354675604,
+        "cycles": 807
+    },
+    "qsort_50MHz": {
+        "power": 67588.14879542774,
+        "cycles": 1886
+    }
+}

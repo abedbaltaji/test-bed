@@ -1,0 +1,9 @@
+addi t0,zero,10
+addi t1,zero,0
+beq t0,zero,0x18
+addi t0,t0,-1
+addi t1,t1,1
+jal ra,0x8
+lui t2,0x10000
+addi t2,t2,0x4
+sb t1,0(t2)

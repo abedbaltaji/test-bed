@@ -1,0 +1,24 @@
+{
+    "voltage": {
+        "matrix_conv": 6584.6303284806245,
+        "factorial": 6658.486602146377,
+        "matrix_mult": 6481.475498491441,
+        "matrix_mult_3x3": 6428.996783182979,
+        "fibonacci": 6580.29080208015,
+        "fibonacci_40": 6494.650654338373,
+        "median_filter": 6591.421552453821,
+        "qsort": 6630.910255029834,
+        "qsort_14": 6637.244184501892
+    },
+    "cycles": {
+        "matrix_conv": 2825,
+        "factorial": 477,
+        "matrix_mult": 719,
+        "matrix_mult_3x3": 3064,
+        "fibonacci": 372,
+        "fibonacci_40": 807,
+        "median_filter": 3238,
+        "qsort": 1886,
+        "qsort_14": 3037
+    }
+}

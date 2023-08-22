@@ -1,0 +1,78 @@
+{
+    "AND": {
+        "voltage": 5815.446220505378,
+        "cycles": 1
+    },
+    "LSR": {
+        "voltage": 5252.8711376705305,
+        "cycles": 1
+    },
+    "MUL": {
+        "voltage": 5760.204946459415,
+        "cycles": 1
+    },
+    "ADD": {
+        "voltage": 6321.264763378208,
+        "cycles": 1
+    },
+    "EOR": {
+        "voltage": 5700.251969373872,
+        "cycles": 1
+    },
+    "MOV": {
+        "voltage": 6184.201487906471,
+        "cycles": 1
+    },
+    "BRANCH": {
+        "voltage": 7634.836531428073,
+        "cycles": 2
+    },
+    "STR": {
+        "voltage": 5683.613455853291,
+        "cycles": 2
+    },
+    "CMP": {
+        "voltage": 5391.897124879616,
+        "cycles": 1
+    },
+    "ADDi": {
+        "voltage": 5749.294126563575,
+        "cycles": 1
+    },
+    "LSL": {
+        "voltage": 5879.691071461204,
+        "cycles": 1
+    },
+    "UDIV": {
+        "voltage": 6057.270438440697,
+        "cycles": 2
+    },
+    "LDR": {
+        "voltage": 6948.695296886221,
+        "cycles": 2
+    },
+    "ANDi": {
+        "voltage": 6073.390077929778,
+        "cycles": 1
+    },
+    "ASR": {
+        "voltage": 6255.426504988193,
+        "cycles": 1
+    },
+    "POP": {
+        "voltage": 6636.703740037272,
+        "cycles": 1
+    },
+    "PUSH": {
+        "voltage": 7755.382316153462,
+        "cycles": 1
+    },
+    "SUB": {
+        "voltage": 5672.718880807039,
+        "cycles": 1
+    },
+    "SDIV": {
+        "voltage": 6011.106637203011,
+        "cycles": 2
+    }
+}
